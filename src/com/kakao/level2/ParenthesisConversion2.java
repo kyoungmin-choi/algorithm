@@ -6,7 +6,7 @@ import java.util.*;
 public class ParenthesisConversion2 {
     // (((()())())())((()))
     public static void main(String[] args) {
-        String anwer = solution("()))((()");
+        String answer = solution("()))((()");
 
         System.out.println("?");
     }
