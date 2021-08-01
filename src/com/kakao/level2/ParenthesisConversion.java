@@ -100,3 +100,14 @@ public class ParenthesisConversion {
 //        mainFunction(newTang.toString());
 //        return answer;
 //    }
+
+
+//    assertEquals("(()())()", test.solution("(()())()"));
+//        assertEquals("()", test.solution(")("));
+//        assertEquals("()(())()", test.solution("()))((()"));
+//        assertEquals("(((())))", test.solution(")()()()("));
+//        assertEquals("()()((()))", test.solution("))()))(((("));
+//        assertEquals("()", test.solution("()"));
+//        assertEquals("()()()()()()((()))", test.solution("()()()()()()((()))"));
+//        assertEquals("((((())())))()(())", test.solution("((((())()))))))((("));
+//        assertEquals("(((()())())())((()))", test.solution("))))((((((()())()))("));
