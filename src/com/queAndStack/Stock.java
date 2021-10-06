@@ -1,4 +1,4 @@
-package com.queue;
+package com.queAndStack;
 
 import java.util.Stack;
 

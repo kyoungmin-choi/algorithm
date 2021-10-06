@@ -1,4 +1,4 @@
-package com.queue;
+package com.queAndStack;
 
 public class StockArrangement {
     public static void main(String[] args) {
